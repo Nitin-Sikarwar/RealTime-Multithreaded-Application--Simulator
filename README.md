@@ -28,7 +28,7 @@ The **Real-Time Multi-threaded Application Simulator** is designed to demonstrat
 ### Steps:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/utsav1223/RealTime-Multithreaded-Application--Simulator.git
+   git clone https://github.com/Nitin-Sikarwar/RealTime-Multithreaded-Application--Simulator.git
    ```
 2. Open the project in your preferred **IDE**.
 3. Ensure the required dependencies are installed.
@@ -76,4 +76,4 @@ The **Real-Time Multi-threaded Application Simulator** is designed to demonstrat
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ## Repository Link
-[Real-Time Multi-threaded Application Simulator](https://github.com/utsav1223/RealTime-Multithreaded-Application--Simulator)
+[Real-Time Multi-threaded Application Simulator](https://github.com/Nitin-Sikarwar/RealTime-Multithreaded-Application--Simulator)
